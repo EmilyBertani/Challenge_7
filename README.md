@@ -27,7 +27,6 @@ Voila
 SQLAlchemy
 
 
-
 ---
 
 
@@ -69,6 +68,7 @@ The following images can be seen when viewing this project:
 
 ![ETF Portfolio Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_Portfolio_Cumulative_Returns.png)
 
+
 ---
 
 
@@ -80,7 +80,9 @@ Emily.Bertani.MD@gmail.com
 
 [LinkedIn](https://www.linkedin.com/feed/)
 
+
 ---
+
 
 ## Licenses
 
