@@ -6,7 +6,7 @@
 
 ## About This Program
 
-This program builds a financial database in order to determine the performance an ETF over a four year period (2016-2020) that include 4 stocks, GOST, GS, PYPL, and SQ. We will use Python, SQL, and Voila library to help
+This program builds a financial database in order to determine the performance an ETF over a four year period (2016-2020) that include 4 stocks, GOST, GS, PYPL, and SQ. We will use Python, SQL, and Voila library to visualize the data and analyze the performance of these stocks.
 
 ---
 
