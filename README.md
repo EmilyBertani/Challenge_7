@@ -1,4 +1,4 @@
-# Challenge_7 README
+## Challenge_7 README
 
 # ETF ANALYZER
 
@@ -63,11 +63,11 @@ For more information about Voila, click [here](https://voila-gallery.org/)
 
 The following images can be seen when viewing this project:
 
-![Bar Graph of Housing Unit Prices per Year in San Francisco](https://github.com/EmilyBertani/Challenge_6/blob/main/Bar_graph.png)
+![PYPL Daily Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Daily_Returns_PYPL.png)
 
-![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph.png)
+![PYPL Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Cumulative_Returns_PYPL.png)
 
-![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons by Neighborood](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph_widget_1.png)
+![ETF Portfolio Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_Portfolio_Cumulative_Returns.png)
 
 ---
 
