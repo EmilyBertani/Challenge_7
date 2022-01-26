@@ -63,11 +63,18 @@ For more information about Voila, click [here](https://voila-gallery.org/)
 The following images can be seen when viewing this project:
 
 ![PYPL Daily Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Daily_Returns_PYPL.png)
+<<<<<<< HEAD
 
 ![PYPL Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Cumulative_Returns_PYPL.png)
 
 ![ETF Portfolio Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_Portfolio_Cumulative_Returns.png)
 
+=======
+
+![PYPL Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Cumulative_Returns_PYPL.png)
+
+![ETF Portfolio Cumulative Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_Portfolio_Cumulative_Returns.png)
+>>>>>>> 81577a2dd1c7adb59888cc2d58c0add735970c6f
 
 ---
 
