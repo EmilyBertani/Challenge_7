@@ -67,8 +67,6 @@ The following images can be seen when viewing this project in Voila:
 ![ETF_Returns_Voila](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_returns_voila.png)
 
 
-<img width="600" alt="hvPlotLinesAllButLargestBill" src="Chal_7_Starter_Code/Challenge_7/ETF_Portfolio_Cumulative_Returns.png">
-
 ---
 
 
