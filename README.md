@@ -62,8 +62,9 @@ For more information about Voila, click [here](https://voila-gallery.org/)
 
 The following images can be seen when viewing this project in Voila:
 
-![PYPL Daily Returns](https://github.com/EmilyBertani/Challenge_7/blob/main/Daily_Returns_PYPL.png)
+![PYPL Daily and Culum_Returns_Voila](https://github.com/EmilyBertani/Challenge_7/blob/main/PYPL_Daily_and_cumul_returns_Voila.png)
 
+![ETF_Returns_Voila](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_returns_voila.png)
 
 
 <img width="600" alt="hvPlotLinesAllButLargestBill" src="Chal_7_Starter_Code/Challenge_7/ETF_Portfolio_Cumulative_Returns.png">
